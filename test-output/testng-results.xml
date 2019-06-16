@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br>Verification failure : expected:<avsc> but was:<csdcsd><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Jun_12_22_03_51_IST_2019.jpg><img src=Wed_Jun_12_22_03_51_IST_2019.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-06-12T16:33:50Z" name="Suite" finished-at="2019-06-12T16:34:42Z" duration-ms="51632">
+    <groups>
+    </groups>
+    <test started-at="2019-06-12T16:33:50Z" name="Bank manager login" finished-at="2019-06-12T16:34:10Z" duration-ms="19127">
+      <class name="com.projectname.testcases.BankManager">
+        <test-method signature="bankmanagerlogin()[pri:0, instance:com.projectname.testcases.BankManager@285c08c8]" started-at="2019-06-12T22:03:51Z" name="bankmanagerlogin" finished-at="2019-06-12T22:04:07Z" duration-ms="16319" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Verification failure : expected:<avsc> but was:<csdcsd><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Jun_12_22_03_51_IST_2019.jpg><img src=Wed_Jun_12_22_03_51_IST_2019.jpg height=200 width=200></img></a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankmanagerlogin -->
+      </class> <!-- com.projectname.testcases.BankManager -->
+    </test> <!-- Bank manager login -->
+    <test started-at="2019-06-12T16:34:10Z" name="Add Customer" finished-at="2019-06-12T16:34:41Z" duration-ms="31228">
+      <class name="com.projectname.testcases.AddCustomer">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.projectname.testcases.AddCustomer@f0e995e]" started-at="2019-06-12T22:04:10Z" name="addcustomer" data-provider="getdata" finished-at="2019-06-12T22:04:17Z" duration-ms="7610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.projectname.testcases.AddCustomer@f0e995e]" started-at="2019-06-12T22:04:18Z" name="addcustomer" data-provider="getdata" finished-at="2019-06-12T22:04:25Z" duration-ms="7366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.projectname.testcases.AddCustomer@f0e995e]" started-at="2019-06-12T22:04:26Z" name="addcustomer" data-provider="getdata" finished-at="2019-06-12T22:04:33Z" duration-ms="7356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ishita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.projectname.testcases.AddCustomer@f0e995e]" started-at="2019-06-12T22:04:33Z" name="addcustomer" data-provider="getdata" finished-at="2019-06-12T22:04:40Z" duration-ms="6871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sehgal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+      </class> <!-- com.projectname.testcases.AddCustomer -->
+    </test> <!-- Add Customer -->
+    <test started-at="2019-06-12T16:34:41Z" name="Open account" finished-at="2019-06-12T16:34:42Z" duration-ms="1007">
+      <class name="com.projectname.testcases.OpenAccount">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.projectname.testcases.OpenAccount@5ce33a58]" started-at="2019-06-12T22:03:31Z" name="Setup" finished-at="2019-06-12T22:03:50Z" duration-ms="19318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="openAccountTest(java.lang.String, java.lang.String)[pri:0, instance:com.projectname.testcases.OpenAccount@5ce33a58]" started-at="2019-06-12T22:04:41Z" name="openAccountTest" data-provider="dp" finished-at="2019-06-12T22:04:41Z" duration-ms="7" status="FAIL">
+          <exception class="org.testng.internal.reflect.MethodMatcherException">
+            <message>
+              <![CDATA[
+Data provider mismatch
+Method: openAccountTest([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)Raman,(java.lang.String)Arora,(java.lang.String)A234wd,(java.lang.String)Customer added successfully]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.reflect.MethodMatcherException: 
+Data provider mismatch
+Method: openAccountTest([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String)Raman,(java.lang.String)Arora,(java.lang.String)A234wd,(java.lang.String)Customer added successfully]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:49)
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1293)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1187)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.reflect.MethodMatcherException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.projectname.testcases.OpenAccount@5ce33a58]" started-at="2019-06-12T22:04:42Z" name="teardown" finished-at="2019-06-12T22:04:44Z" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.projectname.testcases.OpenAccount -->
+    </test> <!-- Open account -->
+  </suite> <!-- Suite -->
+</testng-results>
